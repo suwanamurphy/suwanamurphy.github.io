@@ -24,20 +24,16 @@ author:
   avatar           : "profile.png"
   name             : "Plyfaa Suwanamalik-Murphy"
   pronouns         : "she/her"  
-  bio              : "POSTBAC IRTA"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "NIH Postbaccalaureate IRTA"
+  location         : "Bethesda, MD"
+  employer         : "National Institute of Mental Health"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "plysuwana@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0009-0003-0480-8736"
+  linkedin           : "https://www.linkedin.com/in/plyfaa-murphy/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
