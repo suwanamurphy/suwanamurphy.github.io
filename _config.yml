@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Plyfaa Suwanamalik-Murphy"
+title                    : "Home / About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
